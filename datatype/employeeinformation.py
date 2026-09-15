@@ -6,7 +6,7 @@ employee={
     }
 
 
-print(type(employee),"/n","employe name is: ",employee["name"])
+print(type(employee),"employe name is: ",employee["name"])
 print("age of employee: ",employee["age"])
 print("salary of employee",employee["salary"])
 print("department of employee",employee["department"])
